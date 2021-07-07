@@ -37,6 +37,9 @@
 .card-footer {
     border-top: none; background-color: #fff;
 }
+.card-footer h5{
+    margin-bottom: 25px;
+}
 .subscribe {
     height: 300px;
 }
