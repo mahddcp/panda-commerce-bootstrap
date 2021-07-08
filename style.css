@@ -1,8 +1,5 @@
-.container {
+header, section {
     margin-bottom: 50px;
-}
-footer {
-    margin-bottom: 0px;
 }
 .orange-bg {
     background-color: #fceae8;
